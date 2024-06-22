@@ -1,2 +1,2 @@
-# MineCraft-Core
-MineCraft 核心导航
+# MineCraft-核心
+[Paper官网](https://papermc.io)
