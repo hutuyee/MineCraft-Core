@@ -57,6 +57,11 @@ java -jar 核心名.jar
 做完上述的事情后，需要将目录下的server.properties文件打开
 将online-mode=true改为online-mode=false
 
+## 提醒
+
+此教程仅为基础，如果要进阶请自行学习
+
 # TIPS
 如有问题可询问作者(要不要钱我就不知道了) QQ:2139145308
 催更也可来
+正在考虑要不要直接提供下载链接
