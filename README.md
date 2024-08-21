@@ -5,7 +5,7 @@
 
 ## Paper
 
-[Paper](https://papermc.io)
+[Paper](https://papermc.io)  [蓝奏云](https://wwev.lanzouv.com/b007spa9ri) 密码: 4zkq
 
 [Folia](https://papermc.io/software/folia)
 
